@@ -1,0 +1,20 @@
+{
+  "name": "perfil_cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.5.1",
+    "chart.js": "^4.4.8",
+    "chartjs-plugin-annotation": "^3.1.0",
+    "express": "^4.21.2",
+    "kmeans-node": "^0.1.0",
+    "ml-kmeans": "^6.0.0"
+  }
+}
